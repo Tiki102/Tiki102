@@ -8,7 +8,7 @@ I’m Tijana also known as Tiki102, an apprentice Fullstack Developper and :
    
 I Still haven't received my letter ✉️ for Hogwarts, so instead I'm studing App Development in Ada Tech School in Paris.  
 I'm working not only on team projects 🤝 but on also personal projects 👩‍💻.  
-I am learning new skills and technologies for growth and opportunity.  
+I'm learning new skills and technologies for growth and opportunity.  
 I develop mainly using JavaScript. But I have started using SQL, PHP, Python and tools such as React and Angular.  
   
   📫 How to reach me :  
